@@ -1,0 +1,23 @@
+Nama :
+1. Klemens Heddy Patriot Zebua  (182113460)
+
+Catatan : Sebelumnya nama saya tercantum di kelompok beby, suci, fahmi dan tantri tetapi saya sudah mengerjakan 70% dari program ini dan giliran mereka ber-4 untuk mengerjakan tetapi mereka mnta bntu sama joko untuk mengerjakannya. Bagi ku itu tidak masalah soalnya itu sudah saya serahkan ke mereka tetapi si joko malah bilang ke aku "Malu lah men aku yang ngerjain" yeah spontan saya merasa tidak bisa mengerjakan program ini makanya malam itu saya chat bapak dan saya keluar dari kelompok mereka. Dan catatan kecil semua design aplikasi itu saya yang buat dari awal sampai akhir mereka hanya modif sedikit di tampilan reservasi dan transaksi. Makasih sebelumnya pak. 
+
+Penjelasan Program :
+1. Di tampilan awal user harus login, jika password salah maka harus di input       ulang, jika password dan id employee salah maka akan muncul pesan.
+   Keterangan ID Employee dan Password : 
+   - ID Employee (11223344) dan Password(Karyawan1)
+   - ID Employee (44332211) dan Password(Karyawan2)
+   - ID Employee (44223311) dan Password(Karyawan3)
+2. Jika sudah login maka nama user akan muncul di pojok kanan atas beserta    foto sprofilnya.
+3. Menu About tentang versi applikasi (hanya bisa di lihat), pojok kiri atas    untuk    kembali ke home
+4. Menu Reservasi untuk booking meja. Sebelumnya data reservasi masih kosong maka    untuk itu harus di input dulu semua
+5. Menu Karyawan untuk melihat data karyawan dengan ketentuan :
+   1. jika user memasukkan id employee maka akan muncul data karyawan tersebut
+   2. Jika user memasukkan nama employee makan akan muncul juga data karyawan          tersebut.
+6. Menu daftar member untuk mendaftar member dengan ketentuan :
+   1. User harus memasukkan semua data member jika salah satu tidak di isi maka akan       muncul pesan bahwa harus di isi semua baru bisa di simpan
+   2. user memasukan id member atau nama member maka akan muncul data member             tersebut
+   3. user bisa mengedit dan menghapus data member
+7. Menu transaksi untuk membeli menu yang tersedia dan Sebelumnya data reservasi masih    kosong maka untuk itu harus di input dulu semua
+8. Menu laporan tidak siap di sebabkan crystal report di visual studio saya tidak muncul dan sudah beberapa kali saya setting dan instal begitu juga hasilnya (Artinya saya tidak bisa menyiapkan)
